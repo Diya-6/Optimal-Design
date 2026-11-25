@@ -1,0 +1,5 @@
+Design,Total runs,Unique settings,Replicated runs,Residual df,Pure error df,Lack of fit df
+D-optimal,12,9,3,6,3,3
+A-optimal,12,9,3,6,3,3
+E-optimal,12,11,1,6,1,5
+I-optimal,12,11,1,6,1,5
